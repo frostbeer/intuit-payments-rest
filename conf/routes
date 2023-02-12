@@ -1,0 +1,9 @@
+
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+POST     /users/payments                  com.intuit.payments.service.PaymentsController.createPayment()
+GET      /users                           com.intuit.payments.service.PaymentsController.getPayees(search)
+GET      /users/payments/methods          com.intuit.payments.service.PaymentsController.getPaymentMethods()
+      
