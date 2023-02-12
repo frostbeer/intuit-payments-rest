@@ -69,3 +69,6 @@ Returns the users (people you can pay to) that answer the search query param
 ### Running Locally
 You can run everything the service with Kafka using docker-compose
 There is also Kafka UI in localhost:8080
+
+## Architecture For the Entire Solution On AWS
+<img width="1067" alt="Screen Shot 2023-02-12 at 19 36 46" src="https://user-images.githubusercontent.com/87701000/218327290-fe9ccdca-75ba-4a38-9243-27c26fd87485.png">
