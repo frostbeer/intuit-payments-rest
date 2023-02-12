@@ -1,6 +1,6 @@
-package com.intuit.payments.service
+package com.intuit.payments.service.models
 
-import com.intuit.payments.service.Currency.Currency
+import com.intuit.payments.service.models.Currency.Currency
 import play.api.libs.json.{Json, OFormat}
 
 import java.time.{LocalDateTime, ZoneId}

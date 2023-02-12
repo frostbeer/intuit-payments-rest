@@ -1,8 +1,10 @@
-package com.intuit.payments.service
+package com.intuit.payments.service.output
 
 import akka.actor.ActorSystem
 import akka.kafka.ProducerSettings
 import akka.kafka.scaladsl.SendProducer
+import com.intuit.payments.service.ConfigProvider
+import com.intuit.payments.service.models.Payment
 import org.apache.kafka.clients.producer.ProducerRecord
 import org.apache.kafka.common.serialization.StringSerializer
 import play.api.Logging

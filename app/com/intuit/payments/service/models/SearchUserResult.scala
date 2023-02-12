@@ -1,4 +1,4 @@
-package com.intuit.payments.service
+package com.intuit.payments.service.models
 
 import play.api.libs.json.{Json, OFormat}
 

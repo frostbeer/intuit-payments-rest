@@ -1,6 +1,7 @@
 package com.intuit.payments.service
 
 import com.google.inject.AbstractModule
+import com.intuit.payments.service.output.{PaymentsKafkaOutput, PaymentsOutput}
 
 /**
  * This class is a Guice module that tells Guice how to bind several

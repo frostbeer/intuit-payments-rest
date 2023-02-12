@@ -1,6 +1,7 @@
 package com.intuit.payments.service
 
 import com.intuit.payments.service.exceptions.{InvalidPayeeException, InvalidPaymentMethodException}
+import com.intuit.payments.service.models.{CreatePaymentRequest, PaymentMethodResult, SearchUserResult}
 import play.api.Logging
 import play.api.libs.json.Json
 import play.api.mvc.{Action, AnyContent, InjectedController, Request, Result}

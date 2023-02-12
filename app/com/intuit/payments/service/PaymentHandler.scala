@@ -1,5 +1,8 @@
 package com.intuit.payments.service
 
+import com.intuit.payments.service.models.Payment
+import com.intuit.payments.service.output.PaymentsOutput
+
 import javax.inject.Inject
 import scala.concurrent.Future
 

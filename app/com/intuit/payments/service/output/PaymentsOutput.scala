@@ -1,4 +1,6 @@
-package com.intuit.payments.service
+package com.intuit.payments.service.output
+
+import com.intuit.payments.service.models.Payment
 
 import scala.concurrent.Future
 
