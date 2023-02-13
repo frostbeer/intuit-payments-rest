@@ -72,3 +72,7 @@ There is also Kafka UI in localhost:8080
 
 ## Architecture For the Entire Solution On AWS
 <img width="1067" alt="Screen Shot 2023-02-12 at 19 36 46" src="https://user-images.githubusercontent.com/87701000/218327290-fe9ccdca-75ba-4a38-9243-27c26fd87485.png">
+
+## Full AWS MANAGED Architecture Solution
+<img width="1137" alt="Screen Shot 2023-02-13 at 14 42 29" src="https://user-images.githubusercontent.com/87701000/218460781-429cdb4a-7f5f-4d92-8304-09ebb9fbada8.png">
+
